@@ -17,4 +17,4 @@ O cypress.env.jsonarquivo está incluído .gitignoree você tem certeza de que i
 
 Execute npm test(ou npm tpara a versão curta) para executar o teste no modo headless.
 
-Ou execute npm run cy:openpara abrir o Cypress no modo interativo.
+Ou execute npm run cy:openpara abrir o Cypress no modo interativo
